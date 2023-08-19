@@ -373,4 +373,15 @@ a {
   .footerColumnwrapperColumnLink:hover {
     text-decoration: underline;
   }
-  
+
+  .inwork {
+    text-decoration: underline;
+    text-align: center;
+    color: red;
+    font-size: 46px;
+  }
+  .inwork2 {
+    text-align: center;
+    color: red;
+    font-size: 36px;
+  }
